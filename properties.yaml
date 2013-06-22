@@ -1,5 +1,5 @@
 ---
-package : com.example
-project : my-project
-description : ~
-github_user : ~
+package : net.avh4.util
+project : imagecomparison-scala
+description : Tools for comparing images and writing image-based approval tests.
+github_user : avh4
