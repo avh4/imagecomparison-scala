@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: info.cukes:cucumber-junit:1.1.2:test">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/info.cukes/cucumber-junit/jars/cucumber-junit-1.1.2.jar!/"></root>
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/info.cukes/cucumber-junit/docs/cucumber-junit-1.1.2-javadoc.jar!/"></root>
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/info.cukes/cucumber-junit/srcs/cucumber-junit-1.1.2-sources.jar!/"></root>
+    </SOURCES>
+  </library>
+</component>
