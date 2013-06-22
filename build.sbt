@@ -1,4 +1,4 @@
-name := "{{ project }}"
+name := "imagecomparison-scala"
 
 version := "0.0.0"
 
