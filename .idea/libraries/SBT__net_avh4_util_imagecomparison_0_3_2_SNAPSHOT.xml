@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: net.avh4.util:imagecomparison:0.3.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.avh4.util/imagecomparison/jars/imagecomparison-0.3.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
